@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-p3yqmx.spring.design/sitemap.xml
